@@ -1,0 +1,19 @@
+
+#main{
+    display:block;
+}
+#registration{
+    display:none;
+}
+#login{
+    display:none;
+}
+#option{
+    display:none;
+}
+#booktickets{
+    display:none;
+}
+#history{
+    display:none;
+}
